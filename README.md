@@ -1,5 +1,6 @@
 # potencia-feminina-git-e-github
 
+### oie modificado depois do fork e do clone
 
 
 ## repositorio do curso ministrado para o projeto potencia feminina
