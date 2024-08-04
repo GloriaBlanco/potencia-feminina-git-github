@@ -25,6 +25,5 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-
 [Gloria Gonzalez Blanco](https://github.com/GloriaBlanco)
 vamos forkar teste pr
