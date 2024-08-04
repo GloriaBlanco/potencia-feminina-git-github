@@ -11,7 +11,7 @@
 ### módulo4
 ### módulo5
 ### módulo6
-teste fork teste pr
+teste fork teste pr 2 ez
 
 Conceitos aprendidos nesse curso : conceitos de iniciais de git, github e versionamento, comandos mais utilizados, trabalhar com branchs, fazer pull requests, colaborar com projetos de outras pessoas e gerenciar issues e pull requests com o github projects.
 
